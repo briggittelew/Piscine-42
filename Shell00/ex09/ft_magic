@@ -1,2 +1,4 @@
+#El archivo magic permite encontrar archivos en un directorio que contengan las condiciones definidas en el
+#Por ejemplo archivos que contengan el valor 42 en el bit 42
 41 string 42 42 file
 !:mime text/42file
