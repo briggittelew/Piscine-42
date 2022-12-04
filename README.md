@@ -14,9 +14,7 @@ En bash:
 
 En la primera configuración del PS1:
 
-	```
 	PS1=’\u>\w:\[$(tput sgr0)\]’
-	```
 
 ### Configurar Vim 
 
@@ -28,10 +26,8 @@ Guardar en home ~ el archivo .vimrc
 
 En .vimrc pegar:
 
-	```
 	let g:user42 = '_42user'
 	let g:mail42 = '_42user@student.42urduliz.com'
-	```
 
 ### Configurar header
 
