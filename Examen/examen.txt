@@ -1,0 +1,2 @@
+https://github.com/fwuensche/42-exam-miner
+https://github.com/alanbarrett2/42-Final-Exam/blob/master/1-3-rev_print/subject.en.txt
